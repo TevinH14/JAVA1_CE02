@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Guessing Game CE02</string>
+    <string name="submit_guess">Submit Guess</string>
+    <string name="empty_editText">Missing one or more number</string>
+    <string name="play_again">Play Again</string>
+    <string name="you_lost">You Lost</string>
+    <string name="you_won">You Won</string>
+    <string name="congrats">Congratulation. want to replay?</string>
+    <string name="end_of_guesses">you ran out of guesses</string>
+    <string name="remaining">guesses Remaining</string>
+    <string name="blank_text"> </string>
+</resources>
